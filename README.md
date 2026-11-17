@@ -2,17 +2,21 @@
 
 [**Baixar a versão mais recente**](https://github.com/iasupremaia9-jpg/leitor-documentos-downloads/releases/latest)
 
-Baixe `Instalar-Leitor-7.7.exe`, abra e clique em **Instalar**. Use o atalho na Área de Trabalho ou no menu Iniciar.
+Baixe `Instalar-Leitor-7.8.exe`, abra e clique em **Instalar**. Use o atalho na Área de Trabalho ou no menu Iniciar.
+
+## Leitura rápida primeiro
+
+A versão 7.8 mostra os primeiros dados antes da leitura adicional. Você já pode conferir, corrigir e copiar enquanto o aplicativo tenta completar campos ausentes. Suas correções são preservadas. Quando todos os campos já estão preenchidos, a etapa adicional é dispensada.
 
 ## Frente e verso
 
-Clique em **Abrir frente e verso**. Selecione um arquivo ou segure **Ctrl** para selecionar dois arquivos do mesmo documento. O aplicativo reúne os dados e permite alternar as imagens na lista acima da visualização. Dados conflitantes entre os arquivos ficam para conferência.
+Clique em **Abrir frente e verso**. Selecione um arquivo ou segure **Ctrl** para selecionar dois arquivos do mesmo documento. Alterne as imagens na lista acima da visualização. Dados conflitantes ficam para conferência.
 
 ## Leitura adicional
 
-A versão 7.7 inclui RapidOCR/PP-OCRv6 junto às leituras existentes. O componente tenta preencher campos ausentes; quando diverge de um campo já preenchido, mantém a leitura anterior e avisa para conferir. Modelos e componentes acompanham o instalador de aproximadamente 95 MB. Não é necessário instalar Python.
+Windows OCR, Tesseract e RapidOCR/PP-OCRv6 trabalham localmente. Modelos e componentes acompanham o instalador de aproximadamente 95 MB. Não é necessário instalar Python.
 
-Nos três PDFs usados na comparação, a quantidade de campos preenchidos permaneceu a mesma. Não há garantia de maior precisão: documentos danificados e filiação sem indicação de mãe/pai ainda podem exigir preenchimento manual. Confira sempre com o original.
+Esta atualização melhora o tempo até o primeiro resultado; não garante maior precisão. Documentos danificados e filiação sem indicação de mãe/pai podem exigir preenchimento manual. Confira sempre com o original.
 
 ## Atualizações
 
