@@ -2,11 +2,15 @@
 
 [**Baixar a versão mais recente**](https://github.com/iasupremaia9-jpg/leitor-documentos-downloads/releases/latest)
 
-Baixe `Instalar-Leitor-7.8.exe`, abra e clique em **Instalar**. Use o atalho na Área de Trabalho ou no menu Iniciar.
+Baixe `Instalar-Leitor-7.9.exe`, abra e clique em **Instalar**. Use o atalho na Área de Trabalho ou no menu Iniciar.
 
 ## Leitura rápida primeiro
 
-A versão 7.8 mostra os primeiros dados antes da leitura adicional. Você já pode conferir, corrigir e copiar enquanto o aplicativo tenta completar campos ausentes. Suas correções são preservadas. Quando todos os campos já estão preenchidos, a etapa adicional é dispensada.
+A versão 7.9 mostra os primeiros dados antes da leitura adicional. Você já pode conferir, corrigir e copiar enquanto o aplicativo tenta completar campos ausentes. Suas correções são preservadas. Quando todos os campos já estão preenchidos, a etapa adicional é dispensada.
+
+## Marcador
+
+Arraste sobre uma linha da imagem e escolha **Ler como** no campo desejado. Na versão 7.9, o marcador funciona durante a leitura adicional. Campos marcados e correções manuais são preservados quando a leitura automática termina.
 
 ## Frente e verso
 
